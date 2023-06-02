@@ -1,3 +1,7 @@
 This is file b 
 this is the changed file 
+<<<<<<< HEAD
 again changing 
+=======
+adding more 
+>>>>>>> FeatureA

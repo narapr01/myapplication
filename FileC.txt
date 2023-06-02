@@ -1,2 +1,6 @@
 This is file C
+<<<<<<< HEAD
 Changing file c for repro 
+=======
+changing file c 
+>>>>>>> FeatureA
